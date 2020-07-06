@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://FalgunDevConnector:falgundevconnector@devconnector-kg6es.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "thisismysecret"
+}
