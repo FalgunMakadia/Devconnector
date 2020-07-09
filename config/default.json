@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://FalgunDevConnector:falgundevconnector@devconnector-kg6es.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "thisismysecret"
+  "jwtSecret": "thisismysecret",
+  "githubClientId": "c80bb52216b15800619f",
+  "githubClientSecret": "a8dd830fcd6b106969b1493bddd11952b84fd811"
 }
